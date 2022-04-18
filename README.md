@@ -169,3 +169,10 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 
 ![Membuat_card1](img/card1.png)
 
+
+## Card 2
+
+
+**Coding:**
+
+```html
