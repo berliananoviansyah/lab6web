@@ -133,3 +133,39 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 
 
 
+## 6). Membuat (Card 1, Card 2, Card 3) dan Widget dengan Grid Row dan Col
+
+
+## Card 1
+
+
+**Codingnya:**
+
+
+```html
+<!-- Row Content 1 -->
+<div class="row">
+    <!-- card 1 -->
+    <div class="col-3">
+        <div class="col mt-4">
+            <div class="card" style="width: 18rem; border: 0;">
+                <img src="https://dummyimage.com/120/db7d25/fff.png" class="card-img-top rounded-circle"
+                    alt="Herli" style="width: 200px;">
+                <div class="card-body">
+                    <h5 class="card-title">Heading</h5>
+                    <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates,
+                        facere.</p>
+                    <a href="#" class="btn btn-primary">View Detail</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+
+**Output:**
+
+
+![Membuat_card1](img/card1.png)
+
