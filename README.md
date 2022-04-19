@@ -253,3 +253,32 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Outputnya:**
 
 ![Membuat_widget_header](img/widgetheader.png)
+
+
+
+# WUDGET TEXT
+
+
+**Coding:**
+
+```html
+   <!-- Widget Text -->
+                <div class="list-group my-4" style="border-radius: 0; border: 1px #eee;">
+                    <a href="#" class="list-group-item list-group-item-action active " aria-current="true"
+                        style="font-weight: bold;">
+                        Widget Text
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quas natus, amet ab
+                            voluptatibus beatae accusamus, quam hic veritatis ipsa, accusantium est nihil dolores minus
+                            at labore sapiente autem vero.</p>
+                    </a>
+                </div>
+            </div>
+```
+
+
+**Outputnya:**
+
+
+![Membuat_widget_text](img/widgettext.png)
