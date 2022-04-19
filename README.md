@@ -282,3 +282,44 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 
 
 ![Membuat_widget_text](img/widgettext.png)
+
+
+## 7). Row Content 2 (Section 1)
+
+
+**Codingnya:**
+
+```html
+<!-- Row Content 2 -->
+        <div class="row">
+            <!-- Section 1 -->
+            <div class="col-8-md">
+                <div class="card mb-3" style="width: 900px; height: 200px;  border: 0;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="https://dummyimage.com/150/7b8a70/fff.png" class="img-fluid rounded-start"
+                                alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h2 class="card-title" style="font-weight: bold;">First featurette heading</h2>
+                                <p class="card-text" style="text-align: left;">This is a wider card with supporting text
+                                    below as a
+                                    natural lead-in to additional
+                                    content. This content is a little bit longer. Lorem, ipsum dolor sit amet
+                                    consectetur adipisicing
+                                    elit. Velit animi quidem facere neque. Ea rem labore dolorum, necessitatibus quod,
+                                    maiores tempore
+                                    harum fugit qui accusantium iure. Dolorum illo repellat vitae?</p>
+                                <p class="card-text"><small class="text-muted"></small></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+```
+
+**Outputnya:**
+
+![Row_content](img/RowCo2sec1.png)
