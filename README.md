@@ -317,7 +317,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
                     </div>
                 </div>
             </div>
-        </div>
+        </div></div>
 ```
 
 **Outputnya:**
@@ -326,4 +326,40 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 
 
 
-## 8). 
+## 8). Membuat Row Content 3 (Section 2)
+
+
+**Coding:**
+
+```html
+<!-- Row Content 3 -->
+        <div class="row">
+            <!-- Section 2 -->
+            <div class="col-8-lg me-5">
+                <div class="card mb-3" style="width: 900px; height: 200px; border: 0;">
+                    <div class="row g-0">
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h2 class="card-title" style="font-weight: bold;">First featurette heading</h2>
+                                <p class="card-text">This is a wider card with supporting text below as a natural
+                                    lead-in to additional
+                                    content. This content is a little bit longer. Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit.
+                                    Animi rerum at facilis nesciunt. Quidem, ullam quod beatae sapiente excepturi, vitae
+                                    praesentium ipsa
+                                    ab optio, doloribus voluptatem vel atque eveniet necessitatibus?</p>
+                                <p class="card-text"><small class="text-muted"></small></p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="gambar5.jpg" class="img-fluid rounded-start" alt="picture">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div></div>
+```
+
+**Outputnya:**
+
+![Membuat_row](img/rowco3sec2.png)
