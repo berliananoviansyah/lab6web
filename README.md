@@ -323,3 +323,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Outputnya:**
 
 ![Row_content](img/RowCo2sec1.png)
+
+
+
+## 8). 
