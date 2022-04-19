@@ -149,7 +149,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
     <div class="col-3">
         <div class="col mt-4">
             <div class="card" style="width: 18rem; border: 0;">
-                <img src="https://dummyimage.com/120/db7d25/fff.png" class="card-img-top rounded-circle"
+                <img src="gambar1" class="card-img-top rounded-circle"
                     alt="Herli" style="width: 200px;">
                 <div class="card-body">
                     <h5 class="card-title">Heading</h5>
@@ -167,7 +167,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Output:**
 
 
-![Membuat_card1](img/card1.png)
+![Membuat_card1](img/cardd1.png)
 
 
 ## Card 2
@@ -176,3 +176,52 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Coding:**
 
 ```html
+ <div class="col"><!-- card 2 -->
+        <div class="col-3">
+            <div class="col mt-4">
+                <div class="card" style="width: 18rem; border: 0;">
+                    <img src="gambar2.png" class="card-img-top rounded-circle"
+                        alt="Herli" style="width: 200px;">
+                    <div class="card-body">
+                        <h5 class="card-title">Heading</h5>
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio,
+                            magnam?</p>
+                        <a href="#" class="btn btn-primary">View detail</a>
+                    </div>
+                </div>
+            </div>
+        </div></div>
+```
+
+**Outputnya:**
+
+![Membuat_card2](img/card2.png)
+
+
+## Card 3
+
+
+**Coding:**
+
+```html
+  <div class="col"><!-- card 3 -->
+            <div class="col-3">
+                <div class="col mt-4">
+                    <div class="card" style="width: 18rem; border: 0;">
+                        <img src="gambar3.png" class="card-img-top rounded-circle"
+                            alt="Herli" style="width: 250px;">
+                        <div class="card-body">
+                            <h5 class="card-title">Heading</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio,
+                                magnam?</p>
+                            <a href="#" class="btn btn-primary">View detail</a>
+                        </div>
+                    </div>
+                </div>
+            </div></div>
+```
+
+
+**Output:**
+
+![Membuat_Card3](img/card3.png)
