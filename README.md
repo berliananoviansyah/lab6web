@@ -381,3 +381,10 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Outputnya:**
 
 ![Membuat_Card_Footer](img/cardfooter.png)
+
+
+
+## 10). Full Layout
+
+
+![Full_layout](img/fulllayout.png)
