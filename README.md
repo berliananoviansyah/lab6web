@@ -363,3 +363,21 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Outputnya:**
 
 ![Membuat_row](img/rowco3sec2.png)
+
+
+
+## 9). Membuat Card Footer
+
+
+**Codingnya:**
+
+```html
+<div class="card-footer text-center" style=" background-color: #1d1d1d; color: #eee;">
+    <p>© 2022 - Universitas Pelita Bangsa</p>
+</div>
+```
+
+
+**Outputnya:**
+
+![Membuat_Card_Footer](img/cardfooter.png)
