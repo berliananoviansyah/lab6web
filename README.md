@@ -150,7 +150,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
         <div class="col mt-4">
             <div class="card" style="width: 18rem; border: 0;">
                 <img src="gambar1" class="card-img-top rounded-circle"
-                    alt="Herli" style="width: 200px;">
+                    alt="Berliana" style="width: 200px;">
                 <div class="card-body">
                     <h5 class="card-title">Heading</h5>
                     <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates,
@@ -181,7 +181,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
             <div class="col mt-4">
                 <div class="card" style="width: 18rem; border: 0;">
                     <img src="gambar2.png" class="card-img-top rounded-circle"
-                        alt="Herli" style="width: 200px;">
+                        alt="Berliana" style="width: 200px;">
                     <div class="card-body">
                         <h5 class="card-title">Heading</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio,
@@ -209,7 +209,7 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
                 <div class="col mt-4">
                     <div class="card" style="width: 18rem; border: 0;">
                         <img src="gambar3.png" class="card-img-top rounded-circle"
-                            alt="Herli" style="width: 250px;">
+                            alt="Berliana" style="width: 250px;">
                         <div class="card-body">
                             <h5 class="card-title">Heading</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio,
@@ -225,3 +225,31 @@ div class="card" style="width: 80,1rem; padding: 50px 20px; background-color: #e
 **Output:**
 
 ![Membuat_Card3](img/card3.png)
+
+
+
+# WIDGET HEADER
+
+
+**Coding:**
+
+```html
+ <!-- Widget Header -->
+            <div class="col-3">
+                <div class="list-group my-4" style="border-radius: 0;">
+                    <a href="#" class="list-group-item list-group-item-action active" aria-current="true"
+                        style="font-weight: bold;">
+                        Widget Header
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
+                    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
+                    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
+                    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
+                    <a href="#" class="list-group-item list-group-item-action">Widget Link</a>
+                </div>
+```
+
+
+**Outputnya:**
+
+![Membuat_widget_header](img/widgetheader.png)
